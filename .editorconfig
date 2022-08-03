@@ -1,0 +1,3 @@
+[*.{fs,fsx}]
+end_of_line = lf
+fsharp_multiline_block_brackets_on_same_column = true
